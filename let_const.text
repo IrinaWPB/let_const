@@ -1,0 +1,15 @@
+const PI = 3.14;
+PI = 42 // Error, can not reassign a const variable
+
+1. Let is not hoisted vs Var
+   Let can not be redeclared vs Var
+   Let is block-scoped vs Var
+
+2. Same as first plus:
+   Const can't be reassigned vs Var
+
+3. The only difference between let and const is that const
+   variables can NOT be reassigned.
+
+4. Hoisting is when variable declaration is "moved" on the top of their scope
+   and variable can be accessed before any value is assigned
